@@ -1,0 +1,8 @@
+# build working files and output (release .mobi files go on the Releases page, not in git)
+wh40k_dict_work/
+wh40k_dictionary_output/
+*.mobi
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,220 @@
+# Unofficial Warhammer 40k Kindle Lexicon - custom entries
+# ---------------------------------------------------------
+# Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), by the project contributors.
+# Definitions are written in our own words. Please don't paste text copied from books or other sites.
+#
+# One entry per line:   Headword | other spellings, comma-separated | definition
+# Leave the middle part empty if there are no other spellings:   Hja | | Yes.
+# Lines starting with # are ignored. Save this file as UTF-8 (Notepad does by default).
+# If a headword matches a wiki article, this text is added under the wiki summary.
+#
+# Fenrisian (Juvjk) terms. Word list compiled from the Lexicanum "Fenris Vulgaris"
+# page, which draws mainly on the Fenrisian Lexicon appendix of The Wolftime.
+
+# ---- A
+Adjarr | | (Fenrisian) Lifeblood; the Rune of Blood.
+Aelfkid | | (Fenrisian) Wood sprites.
+Aett | | (Fenrisian) Clan-home: hearth, fireplace, den. "The Aett" is what the Space Wolves call their fortress-monastery, known to the Imperium as the Fang.
+Aettgard | | (Fenrisian) A leader's chosen warriors; another name for the Wolf Guard.
+Aettjarl | | (Fenrisian) The leader of a settlement.
+Aett-rune | aettrune | (Fenrisian) Home rune: the sigil of a Great Company.
+Aett-skjald | aettskjald | (Fenrisian) The lorekeeper of a settlement.
+Aett-vater | aettvater | (Fenrisian) Home-father: a commander or captain.
+Alfathir | Allfather, Alfather | (Fenrisian) The Allfather: the Emperor of Mankind.
+Almáttigrbíta | Almattigrbita | (Fenrisian) "The hunter's cut", likely meaning a killing blow. Leman Russ favoured the word; the Chogorian (Khorchin) equivalent is Berkutra.
+
+# ---- B
+Balka | | (Fenrisian, vulgar) Testicles; "bollocks".
+Baresark | baresarks | (Fenrisian) Berserker.
+Bludhaer | | (Fenrisian) Hour of Blood: battle or war.
+Bludhalle | | (Fenrisian) Blood hall: the medicae or apothecarion, home of the Fleshmakers (Wolf Priests).
+
+# ---- D
+Damget | | (Fenrisian) "Children of Damnation!" A curse or insult.
+Drekkar | | (Fenrisian) A type of Fenrisian longship.
+
+# ---- E
+Einherjar | | (Fenrisian) "Blood-sworn."
+Ekka | | (Fenrisian) Fenrisian pine trees.
+Eldkringla | | (Fenrisian) The Wheel of Fire: a stellar region of unstable nebulae and wandering stars, once overrun by greenskins.
+
+# ---- F
+Felhird | | (Fenrisian) Beastmen.
+Fengr | | (Fenrisian) The wolf within: the bestial nature inside every Space Wolf.
+Fenryka | | (Fenrisian) "Of Fenris." See Vlka Fenryka.
+Fenrys | | (Fenrisian) Fenris.
+Fenrys Hjammar Koldt | | (Fenrisian) "Fenris' hammering cold!" A battle cry.
+Fenrys Hjolda | | (Fenrisian) "Fenris forever!" A battle cry.
+Fja vø | Fja vo | (Fenrisian) "Go now."
+Fjorulalli | | (Fenrisian) The Seal-mother.
+Fyrbrod | | (Fenrisian) "Fire-rod": a gun.
+Fyr-ent | fyrent | (Fenrisian) A fire giant.
+Fyrkaf | | (Fenrisian) Firedrink: a restorative drink.
+Fyrmirdra | | (Fenrisian) Fire serpent: a wyrm or dragon.
+Fyrstrom | | (Fenrisian) Firestorm: an explosion.
+
+# ---- G
+Gann | | (Fenrisian) Death; the Rune of Death.
+Geldfut | | (Fenrisian) An outstanding task or purpose: a mission.
+Geldwhal | | (Fenrisian) A species of Fenrisian whale.
+Gmorl | | (Fenrisian) Fate; the Rune of Fate.
+Gothi | | (Fenrisian) A witch, shaman or Rune Priest.
+Gungnir | | (Fenrisian) Wolfsbane.
+
+# ---- H
+Hamarrki | | (Fenrisian) Spine.
+Hamarrkiskaldi | | (Fenrisian) "Spine story": instinct, gut feeling.
+Hearthegn | | (Fenrisian) Champion; specifically the Great Wolf's Champion.
+Hel | | (Fenrisian) Damnation: a place beneath the ice for those who die badly.
+Hersir | | (Fenrisian) A military leader's rank.
+Hja | | (Fenrisian) Yes.
+Hjammar | | (Fenrisian) Hammer.
+Hjolda | | (Fenrisian) An exclamation of surprise, welcome or frustration.
+Hnefatafl | | (Fenrisian) A strategy board game popular on Fenris.
+Holmgang | holmgangs | (Fenrisian) An honour duel between heroes.
+Hould | | (Fenrisian) The Hold.
+Husjarl | | (Fenrisian) A trusted advisor or second-in-command; a lieutenant.
+Huskaerl | Huscarl, Huscarls, Huskaerls | (Fenrisian) A soldier or armed servant. In Old Fenrisian, also the Wolf Guard.
+
+# ---- J
+Ja hjøld | Ja hjold | (Fenrisian) An expression of approval.
+Jarl | jarls | (Fenrisian) A lord; among the Space Wolves, a Wolf Lord.
+Jarl-deck | jarldeck | (Fenrisian) A ship's command deck or strategium.
+Jarlhalle | | (Fenrisian) A lord's hall.
+Jarlship | jarlships | (Fenrisian) A medium warship, roughly a light cruiser.
+Jøva | Jova | (Fenrisian) "Look!" or "Behold!"
+Juvi | | (Fenrisian) "The Word": a spokesperson; truth.
+Juvjk | Juvyk | (Fenrisian) The hearth-cant: Fenrisian as spoken off the battlefield. Compare Wurgen, the battle-cant.
+Juvykka | | (Fenrisian) The Fenrisian language (Fenris Vulgaris), the dominant dialect of Low Gothic on Fenris.
+
+# ---- K
+Kaerl | kaerls | (Fenrisian) A mortal servant or thrall of the Space Wolves.
+Karlship | karlships | (Fenrisian) A larger-than-usual longship; a cruiser.
+Kjalhalla | | (Fenrisian) Apparently the afterlife.
+Koenigsgard | | (Fenrisian) King's Guard: the Great Wolf's retinue.
+Koldt | | (Fenrisian) Cold.
+Konungur | | (Fenrisian) King.
+
+# ---- M
+Maleficarum | | (Fenrisian usage) Bad magic; also bad luck, an ill omen or an evil spirit.
+Mjød | Mjod | (Fenrisian) Mead-like Fenrisian drink, potent enough to affect a Space Marine.
+Móðir | Modir, Mothir | (Fenrisian) Mother.
+Morkai | | (Fenrisian) The Deathwolf: a two-headed wolf of Fenrisian legend that guards the gates of death.
+
+# ---- O
+Örlendr | Orlendr | (Fenrisian) Outsider, alien; can also mean intruder.
+Ótrúin | Otruin | (Fenrisian) Betrayers, faithless, kinslayers: traitors, especially of the Traitor Legions.
+Oververse | | (Fenrisian) The afterlife.
+
+# ---- R
+Ragnarok | | (Fenrisian) Ending; the Rune of Ending.
+Riven | rivens | (Fenrisian) A unit of 500 kaerls.
+Rivenmaster | rivenmasters | (Fenrisian) A kaerl captain of a military unit.
+Runejarl | runejarls, Rune Jarl | (Fenrisian) A Rune Priest: a Space Wolves Librarian (psyker).
+Runekast | runekasts | (Fenrisian) A sorcerer: an untrustworthy user of wyrd.
+
+# ---- S
+Saern | | (Fenrisian) "Truth." Also the name of a piece of Iskandar Khayon's equipment.
+Sálskjoldur | Salskjoldur | (Fenrisian) A soul-ward totem, worn for protection.
+Skaldwyrdfeyn | | (Fenrisian) A protective chant to drive off ill wyrd.
+Skítja | Skitja, Skítnah, Skitnah, Skjitna | (Fenrisian, vulgar) Shit.
+Skitlbad | | (Fenrisian) A Fenrisian game of skill.
+Skjald | skjalds, skald, skalds | (Fenrisian) Storyteller; lorekeeper.
+Skjaldom | | (Fenrisian) A vox-centre.
+Skjaldroot | | (Fenrisian) A Fenrisian narcotic plant.
+Skjaldvers | | (Fenrisian) A poem or chant; a warding prayer.
+Skjald-wisht | skjaldwisht | (Fenrisian) "Poet-wishing": daydreaming.
+Skjoal | | (Fenrisian) A drinking toast; drinking without pause.
+Skjoldtar | | (Fenrisian) A kaerl long gun.
+Skold | | (Fenrisian) Name.
+Sturmwyrm | | (Fenrisian) A storm dragon.
+Sverdhjera | | (Fenrisian) "Blademaster(s)."
+
+# ---- T
+Thegnhalle | | (Fenrisian) Council chambers.
+Trysk | | (Fenrisian) Ice; the Rune of Ice.
+
+# ---- U
+Ulfwyrd | | (Fenrisian) Wolf-fate: power drawn from ancestral magic, accumulated wisdom and respect.
+Underverse | | (Fenrisian) The bad afterlife; the warp; Hel.
+Upp | | (Fenrisian) Up.
+Uppland | | (Fenrisian) The good afterlife; also the void, outer space.
+Upplander | upplanders | (Fenrisian) One from the heavens; a stranger.
+Urthand | | (Fenrisian) "Hate-forged."
+Ut-geld | utgeld | (Fenrisian) An owed debt: a favour or obligation.
+Utlander | utlanders | (Fenrisian) An outsider.
+
+# ---- V
+Vaerangi | vaerengr, varagyr | (Fenrisian) The Wolf Guard.
+Vahk | Vahk meh | (Fenrisian) An exclamation of surprise.
+Valkjyr | | (Fenrisian) Angels: the choosers of the slain in battle.
+Varg-Ulf | vargulf, varg-ulfs | (Fenrisian) A wolf driven mad by wyrd.
+Vlka | | (Fenrisian) Wolves.
+Vlka Fenryka | | (Fenrisian) "Wolves of Fenris": the Space Wolves' own name for their Legion and Chapter.
+Volda | | (Fenrisian) The world.
+Volda Hammarki | | (Fenrisian) A daemon: a corrupt wight, Neverborn, "non-thing".
+
+# ---- W
+War-aett | waraett | (Fenrisian) A base or command centre.
+War-skelt | warskelt | (Fenrisian) A battle hymn.
+Weregost | weregosts | (Fenrisian) A talisman or likeness. Each Great Company's symbol is its weregost.
+Wight | wights | (Fenrisian usage) A corpse-ghost.
+Wulfhalle | | (Fenrisian) Wolf Hall: the Great Wolf's personal chambers.
+Wurgen | | (Fenrisian) The battle-cant: the clipped Fenrisian the Space Wolves speak while fighting. Compare Juvjk, the hearth-cant.
+Wyrd | | (Fenrisian) Fate; also magic, or the warp. Used as a prefix: wyrdflesh, wyrdfulk, wyrdstorm, etc.
+Wyrd-marked | wyrdmarked | (Fenrisian) Bearing an ill-omened fate; born under a bad star.
+Wyrdfast | | (Fenrisian) "Fate-caught."
+Wyrding blade | wyrding blades | (Fenrisian) A bladed psychic weapon steeped in the power of the Underverse.
+Wyrm | wyrms | (Fenrisian) A dragon.
+
+# ---- Y
+Ygdras | | (Fenrisian) A tree-giant.
+Ymir | | (Fenrisian) Earth; the Rune of Earth.
+
+# ---- Wyrd- compounds (wyrd = fate / magic / the warp)
+Wyrdflesh | wyrd-flesh | (Fenrisian) Daemonic or mutant remains.
+Wyrdfulk | wyrd-fulk | (Fenrisian) Daemons.
+Wyrdfir | wyrd-fir | (Fenrisian) Warpflame.
+Wyrdglimr | wyrd-glimr | (Fenrisian) A warp glow.
+Wyrdhalle | wyrd-halle | (Fenrisian) A wyrd-hall or house.
+Wyrdhex | wyrd-hex | (Fenrisian) A magical curse.
+Wyrdjarl | wyrd-jarl, wyrdjarls | (Fenrisian) A mid-level psyker.
+Wyrdkine | wyrd-kine | (Fenrisian) Mutants.
+Wyrdknak | wyrd-knak | (Fenrisian) A warp-born ability; uncanny intuition.
+Wyrdleif | wyrd-leif | (Fenrisian) Sigils or runes.
+Wyrdlit | wyrd-lit | (Fenrisian) The emanating power of the warp.
+Wyrdlode | wyrd-lode | (Fenrisian) A source of warp power.
+Wyrdlore | wyrd-lore | (Fenrisian) Knowledge of the warp; psychic mastery.
+Wyrdmidons | wyrd-midons | (Fenrisian) Mermaid- or siren-like creatures; tempters.
+Wyrdrot | wyrd-rot | (Fenrisian) Flesh made toxic by mutation.
+Wyrdsense | wyrd-sense | (Fenrisian) Awareness or detection of the warp.
+Wyrdshrum | wyrd-shrum | (Fenrisian) A psychedelic fungus native to Fenris.
+Wyrdskaldr | wyrd-skaldr | (Fenrisian) A mystic chant.
+Wyrdstok | wyrd-stok | (Fenrisian) Residual power after a warp breach; the power of mutation.
+Wyrdstorm | wyrd-storm, wyrdstorms | (Fenrisian) A psychic attack.
+Wyrdthegn | wyrd-thegn, wyrdthegns | (Fenrisian) A high-level psyker.
+Wyrdward | wyrd-ward, wyrdwards | (Fenrisian) Psychic protection, or a rune that gives it.
+
+# ---- Numbers (For = four, Under, Verse, and Bjorn are left out so they don't hijack ordinary English or the Bjorn article)
+Onn | | (Fenrisian) One.
+Twa | | (Fenrisian) Two.
+Tra | | (Fenrisian) Three. "Tra-tra" is three-three.
+Fyf | | (Fenrisian) Five.
+Sesc | | (Fenrisian) Six.
+Sepp | | (Fenrisian) Seven.
+Dekk | | (Fenrisian) Ten. "Dekk-tra" is thirteen.
+Dekk-tra | dekktra | (Fenrisian) Thirteen.
+
+# ---- Expressions and sayings
+Wolftime | Wolf Time | (Fenrisian) The end of all things and the return of the Wolf King. See Morkai.
+Murder-make | murder-time, murdermake | (Fenrisian) Fighting; a battle.
+Red snow | | (Fenrisian) Killing: blood shed on the snow.
+Bad star | | (Fenrisian) An ill omen.
+God-marked | godmarked | (Fenrisian) A psyker.
+The Rout | | (Fenrisian) An old name the Space Wolves sometimes use for themselves, mostly from Legion times.
+Until next winter | | (Fenrisian) A farewell to the dead or dying; also said in the face of certain death.
+Morkai's Teeth | | (Fenrisian) An exclamation of surprise, usually at sudden danger.
+Hand of Russ | | (Fenrisian) A wish for protection, used as a farewell.
+Ward of Russ | | (Fenrisian) A wish for protection; also an expression of amazement.
+Teeth of Russ | | (Fenrisian) An expression of frustration.
+Blood of Russ | | (Fenrisian) An expression of anger.
